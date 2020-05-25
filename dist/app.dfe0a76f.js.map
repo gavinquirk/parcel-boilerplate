@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"app.dfe0a76f.js","sourceRoot":"..\\public","sourcesContent":["console.log('JavaScript Working...');\r\n"]}
